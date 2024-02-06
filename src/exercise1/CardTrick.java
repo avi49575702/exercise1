@@ -57,6 +57,7 @@ public class CardTrick {
      * Making changes online on GitHub repository
      */
     private static void printInfo() {
+        System.out.println("I am done!");
         System.out.println("You guessed right!");
         System.out.println();
         
